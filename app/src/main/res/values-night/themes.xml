@@ -1,0 +1,133 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MovieStreamingApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryVariant">@color/blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/grey</item>
+        <item name="colorSecondaryVariant">@color/orange</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+
+<!--    AUTH-->
+    <style name="auth" parent="">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+    </style>
+
+    <style name="already" parent="">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/ubuntu_medium</item>
+        <item name="android:textSize">35sp</item>
+    </style>
+
+    <style name="autkecil" parent="">
+        <item name="fontFamily">@font/cabin_semibold</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="SignInButton" parent="">
+        <item name="fontFamily">@font/cabin_semibold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="background">@drawable/signinbtn</item>
+    </style>
+    <color name="signinbtn">#5F9DF7</color>
+
+    <style name="SignUpButton" parent="">
+        <item name="fontFamily">@font/cabin_semibold</item>
+        <item name="android:textColor">@color/darkBlue</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+
+
+<!--    DETAIL-->
+
+    <style name="detailTitle" parent="">
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="subDetail" parent="">
+        <item name="fontFamily">@font/poppins_regular</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="mainDetail" parent="">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+    </style>
+
+    <style name="textDesc" parent="">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/cabin_regular</item>
+    </style>
+
+    <style name="eps" parent="">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="playbtn" parent="">
+        <item name="android:fontFamily">@font/cabin_regular</item>
+        <item name="android:background">@drawable/playbtn</item>
+    </style>
+    <color name="playBtn"></color>
+
+    <style name="sharebtn" parent="">
+        <item name="android:fontFamily">@font/cabin_regular</item>
+        <item name="android:background">@drawable/sharebtn</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <color name="shareBtn"></color>
+
+
+<!--    MAIN-->
+
+    <color name="cardBack">#3788FF</color>
+
+    <style name="BannerTitle" parent="">
+        <item name="fontFamily">@font/poppins_bold</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="RecTitle" parent="">
+        <item name="fontFamily">@font/cabin_semibold</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="subMain" parent="">
+        <item name="fontFamily">@font/cabin_bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Name" parent="">
+        <item name="fontFamily">@font/poppins_bold</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="subInfo" parent="">
+        <item name="fontFamily">@font/cabin_regular</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="SignOutButton" parent="">
+        <item name="fontFamily">@font/cabin_semibold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="background">@drawable/signinbtn</item>
+    </style>
+    <color name="signOutBtn"></color>
+</resources>

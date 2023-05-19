@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284793815475",
+    "project_id": "movie-streaming-app-c2567",
+    "storage_bucket": "movie-streaming-app-c2567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284793815475:android:5a9792cf79be1deb3f8bc6",
+        "android_client_info": {
+          "package_name": "me.arjati.moviestreamingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284793815475-7apo18l8o0tgtcnqbv9fp3nn7gafen2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKTQxya3a44SwZ0hCW0CuPUn2qhPiJUBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284793815475-7apo18l8o0tgtcnqbv9fp3nn7gafen2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Pemutar Film</string>
+    <string name="already">Apakah sudah punya akun?</string>
+    <string name="lupaps">Lupa password?</string>
+    <string name="or">atau lanjutkan dengan?</string>
+    <string name="don">Tidak memiliki akun?</string>
+    <string name="see">lihat apa yang baru hari ini</string>
+    <string name="more">lebih</string>
+    <string name="recent">Baru saja ditonton</string>
+    <string name="recom">Rekomendasi</string>
+    <string name="watch">Lihat</string>
+    <string name="myList">+ Daftarku</string>
+    <string name="play">Mulai</string>
+    <string name="share">Bagikan</string>
+</resources>

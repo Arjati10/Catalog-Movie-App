@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Catalog Movie App</string>
+    <string name="already">Already have an account?</string>
+    <string name="lupaps">Forget the password?</string>
+    <string name="or">or continue with?</string>
+    <string name="don">Dont have an account?</string>
+    <string name="see">see what new today</string>
+    <string name="more">more</string>
+    <string name="recent">Recent</string>
+    <string name="recom">Recomendation</string>
+    <string name="watch">Watch</string>
+    <string name="myList">+ My List</string>
+    <string name="play">Play</string>
+    <string name="share">Share</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
